@@ -1,0 +1,22 @@
+{
+  "name": "terminal-markdown",
+  "version": "0.0.1",
+  "description": "Markdown in your terminal",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "lucleray",
+  "bin": {
+    "terminal-markdown": "./cli.js",
+    "tm": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "mdast-util-definitions": "^1.2.2",
+    "remark-parse": "^5.0.0",
+    "table": "^4.0.3",
+    "terminal-image": "^0.1.1",
+    "terminal-link": "^1.1.0",
+    "unified": "^7.0.0",
+    "unist-util-inspect": "^4.1.3"
+  }
+}
