@@ -1,4 +1,4 @@
-# TM↓
+# tm▾
 
 Markdown in your terminal
 
@@ -43,8 +43,8 @@ curl -s https://raw.githubusercontent.com/lucleray/terminal-markdown/master/read
 
 * **Images** are replaced by alt texts
 * **HTML** won't be displayed
-* **Footnotes** but they are also not supported on Github
-* **Alignment** of tables is not taken in account
+* **Footnotes** (but they're also not supported on Github)
+* **Alignment inside tables** is not supported
 
 🚨 Depending on your terminal, some things might change :
 
